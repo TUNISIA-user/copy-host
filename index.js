@@ -5,8 +5,7 @@ import Videos from "./dbModel.js"
  
 import cors from "cors"
 
-@founder app Nahidi_ghaith
-
+@founder app Ghaith
 
  
  
